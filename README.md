@@ -1,0 +1,1 @@
+# lab-6-robot-rentals
